@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Daniel Neuhann. I work on macroeconomics, financial intermediation and asset pricing, with a particular focus on the role of information and the industrial organization of financial markets. See my [Curriculum vitae](https://dneuhann.github.io/files/neuhann_cv.pdf).
+My name is Daniel Neuhann. I work on macroeconomics, financial intermediation and asset pricing, with a particular focus on the role of information and the industrial organization of financial markets. 
+
+[Curriculum vitae](https://dneuhann.github.io/files/neuhann_cv.pdf)
 
 ### Working papers
 
@@ -18,7 +20,7 @@ My name is Daniel Neuhann. I work on macroeconomics, financial intermediation an
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
 <small> revise and resubmit, **Review of Financial Studies** </small>
 
-3. ####  [Demand-system Asset Pricing: Theoretical Foundations](https://dneuhann.github.io/files/ffn_demand.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672473) \]
+3. ####  [Demand-system Asset Pricing: Theoretical Foundations](https://dneuhann.github.io/files/ffn_demand.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672473)\]
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
 <small> revise and resubmit, **Journal of Finance** </small>
 
@@ -48,11 +50,11 @@ My name is Daniel Neuhann. I work on macroeconomics, financial intermediation an
 
 ### Publications 
 
-9. ####  [Do Universal Banks Finance Riskier but More Productive Firms?](https://dneuhann.github.io/files/NS_ub_JFE.pdf) \[ [Publisher's Link](https://www.sciencedirect.com/science/article/abs/pii/S0304405X18300254)\]
+9. ####  [Do Universal Banks Finance Riskier but More Productive Firms?](https://dneuhann.github.io/files/NS_ub_JFE.pdf) \[[Publisher's Link](https://www.sciencedirect.com/science/article/abs/pii/S0304405X18300254)\]  
 <small> (with Farzad Saidi) </small>  
 <small> Journal of Financial Economics Vol. 128 (2018), Pages 66-85</small>
 
-10. ####  [Sovereign Debt Auctions in Turbulent Times](https://dneuhann.github.io/files/cno_turbulent_AERPP.pdf) \[ [Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20221001)\]
+10. ####  [Sovereign Debt Auctions in Turbulent Times](https://dneuhann.github.io/files/cno_turbulent_AERPP.pdf) \[[Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20221001)\]  
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
 <small> AEA Papers and Proceedings 2022, 112: 526-530</small>
 
@@ -60,7 +62,7 @@ My name is Daniel Neuhann. I work on macroeconomics, financial intermediation an
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
 <small> Journal of Political Economy  Vol. 130 No. 8 (2022), 2055-2109</small>
 
-12. ####  [Collateral Quality and Intervention Traps](https://dneuhann.github.io/files/ln_cqual_JFE.pdf)  
+12. ####  [Collateral Quality and Intervention Traps](https://dneuhann.github.io/files/ln_cqual_JFE.pdf)    
  <small> (with Michael Junho Lee)</small>  
 <small> Journal of Financial Economics  Vol. 147 No. 1 (January 2023), 159-171</small>
 
