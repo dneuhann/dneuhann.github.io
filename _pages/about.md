@@ -1,13 +1,14 @@
 ---
 permalink: /
 title: ""
-excerpt: "Shikhar Singla"
+excerpt: "Daniel Neuhann"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-My research agenda is to answer research questions in the areas of regulations, political economy and gender norms by developing novel artificial intelligence techniques such as word embeddings, supervised learning, deep learning etc.
+My name is Daniel Neuhann. I work on macroeconomics, financial intermediation and asset pricing, with a particular focus on the role of information and the industrial organization of financial markets.
+
 
 Please download my [CV here](https://shikharsingla.com/files/singla_cv.pdf).
 
