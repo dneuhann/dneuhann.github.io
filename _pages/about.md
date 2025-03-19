@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Daniel Neuhann. I work on macroeconomics, financial intermediation and asset pricing, with a particular focus on the role of information and the industrial organization of financial markets.
-
-[Curriculum vitae](https://dneuhann.github.io/files/neuhann_cv.pdf)
-
+My name is Daniel Neuhann. I work on macroeconomics, financial intermediation and asset pricing, with a particular focus on the role of information and the industrial organization of financial markets. See my [Curriculum vitae](https://dneuhann.github.io/files/neuhann_cv.pdf).
 
 ### Working papers
 
@@ -48,11 +45,11 @@ My name is Daniel Neuhann. I work on macroeconomics, financial intermediation an
 
 ### Publications 
 
-9. ####  [Do Universal Banks Finance Riskier but More Productive Firms?](https://dneuhann.github.io/files/NS_ub_JFE.pdf)  
+9. ####  [Do Universal Banks Finance Riskier but More Productive Firms?](https://dneuhann.github.io/files/NS_ub_JFE.pdf) \[ [Publisher's Link](https://www.sciencedirect.com/science/article/abs/pii/S0304405X18300254)\]
 <small> (with Farzad Saidi) </small>  
 <small> Journal of Financial Economics Vol. 128 (2018), Pages 66â85</small>
 
-10. ####  [Sovereign Debt Auctions in Turbulent Times](https://dneuhann.github.io/files/cno_turbulent_AERPP.pdf)  
+10. ####  [Sovereign Debt Auctions in Turbulent Times](https://dneuhann.github.io/files/cno_turbulent_AERPP.pdf) \[ [Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20221001)\]
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
 <small> AEA Papers and Proceedings 2022, 112: 526â530</small>
 
