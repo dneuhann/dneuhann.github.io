@@ -11,14 +11,14 @@ My name is Daniel Neuhann. I work on macroeconomics, financial intermediation an
 
 ### Working papers
 
-1. ####  [How to Sell Public Debt in Uncertain Times](https://dneuhann.github.io/files/cno_howtosell.pdf) \[ [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5178679)\]  
+1. ####  [How to Sell Public Debt in Uncertain Times](https://dneuhann.github.io/files/cno_howtosell.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5178679)\]  
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>
 
-2. ####  [Rules versus Disclosure: Prudential Regulation and Market Discipline ](https://dneuhann.github.io/files/ffn_rules.pdf) \[ [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799706)\]
+2. ####  [Rules versus Disclosure: Prudential Regulation and Market Discipline ](https://dneuhann.github.io/files/ffn_rules.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799706)\]
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
 <small> revise and resubmit, **Review of Financial Studies** </small>
 
-3. ####  [Demand-system Asset Pricing: Theoretical Foundations](https://dneuhann.github.io/files/ffn_demand.pdf) \[ [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672473) \]
+3. ####  [Demand-system Asset Pricing: Theoretical Foundations](https://dneuhann.github.io/files/ffn_demand.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672473) \]
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
 <small> revise and resubmit, **Journal of Finance** </small>
 
@@ -26,7 +26,7 @@ My name is Daniel Neuhann. I work on macroeconomics, financial intermediation an
 <small> (with Mahyar Sefidgaran and Michael Sockin) </small>  
 <small> revise and resubmit, **Review of Financial Studies** </small>
 
-5. ####  [Do Public Asset Purchases Foster Liquidity?](https://dneuhann.github.io/files/ns_purchases.pdf) \[ [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351995)\]    
+5. ####  [Do Public Asset Purchases Foster Liquidity?](https://dneuhann.github.io/files/ns_purchases.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351995)\]    
 <small> (with Michael Sockin) </small>  
 <small> revise and resubmit, **Journal of Economic Theory** </small>
 
