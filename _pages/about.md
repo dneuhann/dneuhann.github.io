@@ -58,19 +58,19 @@ My name is Daniel Neuhann. I am an assistant professor of finance at the Univers
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
 <small> AEA Papers and Proceedings 2022, 112: 526-530</small>
 
-11. ####  [Asymmetric Information and Sovereign Debt: Theory meets Mexican Data](https://dneuhann.github.io/files/cno_mex_JPE.pdf)  
+11. ####  [Asymmetric Information and Sovereign Debt: Theory meets Mexican Data](https://dneuhann.github.io/files/cno_mex_JPE.pdf) \[[Publisher's Link](https://www.journals.uchicago.edu/doi/abs/10.1086/720139)\]   
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
 <small> Journal of Political Economy  Vol. 130 No. 8 (2022), 2055-2109</small>
 
-12. ####  [Collateral Quality and Intervention Traps](https://dneuhann.github.io/files/ln_cqual_JFE.pdf)    
+12. ####  [Collateral Quality and Intervention Traps](https://dneuhann.github.io/files/ln_cqual_JFE.pdf) \[[Publisher's Link](https://www.sciencedirect.com/science/article/abs/pii/S0304405X22002252)\]     
  <small> (with Michael Junho Lee)</small>  
 <small> Journal of Financial Economics  Vol. 147 No. 1 (January 2023), 159-171</small>
 
-13. ####  [Information Spillovers and Sovereign Debt: Theory meets the Eurozone Crisis](https://dneuhann.github.io/files/cno_eurozone_restud.pdf)  
+13. ####  [Information Spillovers and Sovereign Debt: Theory meets the Eurozone Crisis](https://dneuhann.github.io/files/cno_eurozone_restud.pdf) \[[Publisher's Link](https://academic.oup.com/restud/article-abstract/92/1/197/7681930?redirectedFrom=fulltext)\]  
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
 <small> The Review of Economic Studies Vol. 92 No. 1 (2025), 197-237</small>
 
-14. ####  [Financial Market Concentration and Misallocation](https://dneuhann.github.io/files/ns_concentration_JFE.pdf)  
+14. ####  [Financial Market Concentration and Misallocation](https://dneuhann.github.io/files/ns_concentration_JFE.pdf) \[[Publisher's Link](https://www.sciencedirect.com/science/article/abs/pii/S0304405X24000989)\]  
 <small>(with Michael Sockin)</small>  
 <small> Journal of Financial Economics Vol. 159 (2024), 103875 </small>
 
