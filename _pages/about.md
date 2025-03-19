@@ -86,6 +86,11 @@ My name is Daniel Neuhann. I am an assistant professor of finance at the Univers
 <small>(with William Fuchs and Satoshi Fukuda)</small>
 
 
+### Superseded Projects
+
+17. ####  [A Walrasian Theory of Sovereign Debt Auctions with Asymmetric Information](https://www.nber.org/system/files/working_papers/w24890/w24890.pdf)
+<small>(with Harold L. Cole and Guillermo Ordonez)</small>  
+<small> NBER Working Paper 24890 </small>  
 
 
 [//]: This java script is the button to show abstract
