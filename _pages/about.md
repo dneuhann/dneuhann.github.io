@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Daniel Neuhann. I am assistant professor of finance at the University of Texas at Austin, McCombs School of Business. I work on macroeconomics, financial intermediation and asset pricing, with a particular focus on the role of information and the industrial organization of financial markets. 
+My name is Daniel Neuhann. I am an assistant professor of finance at the University of Texas at Austin, McCombs School of Business. I work on macroeconomics, financial intermediation and asset pricing, with a particular focus on the role of information and the industrial organization of financial markets. 
 
 [Curriculum vitae](https://dneuhann.github.io/files/neuhann_cv.pdf)
 
