@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider      : "google-gtag"  # Use "google-gtag" instead of "google-universal"
   google:
-    tracking_id          : "G-YTW40ECQB9"
+    tracking_id : "G-YTW40ECQB9"
 
 
 # Site Author
