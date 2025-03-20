@@ -91,7 +91,7 @@ I am an Assistant Professor of Finance at the University of Texas at Austin, McC
 17. ###  [A Walrasian Theory of Sovereign Debt Auctions with Asymmetric Information](https://www.nber.org/system/files/working_papers/w24890/w24890.pdf)
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
 <small> NBER Working Paper 24890 </small>  
-
+Parts of this paper were subsumed in ``How to Sell Public Debt in Uncertain Times.''
 
 [//]: This java script is the button to show abstract
 <script>
