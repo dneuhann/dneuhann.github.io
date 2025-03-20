@@ -15,11 +15,6 @@ I am an Assistant Professor of Finance at the University of Texas at Austin, McC
 
 1. ###  [How to Sell Public Debt in Uncertain Times](https://dneuhann.github.io/files/cno_howtosell.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5178679)\]  
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
-<small>[ <a href="#/" onclick="visib('reg')">Abstract</a> ]</small>
-<div id="reg" style="display: none; text-align: justify; line-height: 1.2" ><small>
-How should governments structure primary sovereign bond markets when investors face asymmetric uncertainty about default risk and total demand? Standard protocols either use uniform prices for all investors, or price discriminate based on bid prices (``pay as bid''). Uniform pricing encourages participation by uninformed investors but price discrimination captures inframarginal surplus. Based on this tradeoff, we propose a new protocol that features price discrimination on inframarginal bids and uniform pricing on marginal bids, thereby reducing the mean and variance of public borrowing costs. We also offer new evidence on the information content of primary bond markets which supports our framework.
-</small><br><br/></div>
-
 
 2. ###  [Rules versus Disclosure: Prudential Regulation and Market Discipline ](https://dneuhann.github.io/files/ffn_rules.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799706)\]
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
