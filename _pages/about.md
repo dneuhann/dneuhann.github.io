@@ -44,7 +44,7 @@ I am an Assistant Professor of Finance at the University of Texas at Austin, McC
 <small> Runner-up, 2016 European Systemic Risk Board Ieke van den Burg Prize  </small>
 
 8. ###  [Less Bank Regulation, More Non-Bank Lending](https://dneuhann.github.io/files/cnls_nonbank.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4447765)\]  
-<small> (with Mary Chen, Seung Lee and Farzad Saidi)) </small>  
+<small> (with Mary Chen, Seung Lee and Farzad Saidi) </small>  
 <small> revise and resubmit, **Review of Finance** </small>
 
 
