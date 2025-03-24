@@ -15,7 +15,7 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 
 
 
-1. ###  [How to Sell Public Debt in Uncertain Times](https://dneuhann.github.io/files/cno_howtosell.pdf)\[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5191328)\]
+1. ###  [How to Sell Public Debt in Uncertain Times](https://dneuhann.github.io/files/cno_howtosell.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5191328)\]
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
 
 2. ###  [Rules versus Disclosure: Prudential Regulation and Market Discipline ](https://dneuhann.github.io/files/ffn_rules.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799706)\]
