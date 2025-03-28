@@ -95,6 +95,8 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 <small> NBER Working Paper 24890 </small>  
 <small> Elements of this paper were incorporated into "How to Sell Public Debt in Uncertain Times.''</small>  
 
+[Discussion slides](https://dneuhann.github.io/files/Neuhann_BBS_reserves.pdf)
+
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
