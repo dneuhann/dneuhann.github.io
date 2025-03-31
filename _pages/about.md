@@ -81,7 +81,7 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 
 ### Work in Progress
 
-15. ###  Collusion in Sovereign Bond Auctions  
+15. ###  Time-varying Market Power in Sovereign Bond Auctions  
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>
 
 16. ###  KAPM  
