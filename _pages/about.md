@@ -19,6 +19,7 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
 
 2. ###  [Rules versus Disclosure: Prudential Regulation and Market Discipline ](https://dneuhann.github.io/files/ffn_rules.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799706)\]
+``` - revised April 2025 ```
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
 <small> revise and resubmit, **Review of Financial Studies** </small>
 
