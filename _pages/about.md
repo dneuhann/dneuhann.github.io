@@ -24,7 +24,7 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 
 3. ###  [Demand-system Asset Pricing: Theoretical Foundations](https://dneuhann.github.io/files/ffn_demand.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672473)\]
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
-<small> updated April 2025 </small>
+<small> updated April 2025 </small>  
 <small> revise and resubmit, **Journal of Finance** </small>
 
 4. ###  [Portfolio Regulation of Large Financial Institutions](https://dneuhann.github.io/files/nss_portfolio.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971043)\]  
