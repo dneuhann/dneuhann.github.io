@@ -43,11 +43,11 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 <small> revise and resubmit, **Review of Finance** </small>
 
 
-### Publications 
+### Publications and accepted papers
 
 1. ###  [Portfolio Regulation of Large Financial Institutions](https://dneuhann.github.io/files/nss_portfolio.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971043)\]  
 <small> (with Mahyar Sefidgaran and Michael Sockin) </small>  
-<small> conditionally accepted, **Review of Financial Studies** </small>
+<small> conditionally accepted, Review of Financial Studies </small>
 
 2. ###  [Information Spillovers and Sovereign Debt: Theory meets the Eurozone Crisis](https://dneuhann.github.io/files/cno_eurozone_restud.pdf) \[[Publisher's Link](https://academic.oup.com/restud/article-abstract/92/1/197/7681930?redirectedFrom=fulltext)\]  
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
