@@ -92,6 +92,10 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 <small> Elements of this paper were incorporated into "How to Sell Public Debt in Uncertain Times.''</small>  
 
 
+[Trilemma slides](https://dneuhann.github.io/files/ffn_trilemma_slides.pdf) 
+
+
+
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
