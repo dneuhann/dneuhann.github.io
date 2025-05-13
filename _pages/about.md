@@ -81,9 +81,11 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 15. ###  Time-varying Market Power in Sovereign Bond Auctions  
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>
 
-16. ###  KAPM  
+16. ###  Kantian versus Consequentialist Portfolio Choice  
 <small>(with William Fuchs and Satoshi Fukuda)</small>
 
+16. ###  A Trilemma for Asset Demand Estimation  
+<small>(with William Fuchs and Satoshi Fukuda)</small>
 
 ### Superseded Projects
 
