@@ -86,6 +86,9 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 16. ###  A Trilemma for Asset Demand Estimation  
 <small>(with William Fuchs and Satoshi Fukuda)</small>
 
+15. ###  Credit Market Interventions for the Long Run  
+<small>(with Michael Junho Lee)</small>
+
 ### Superseded Projects
 
 17. ###  [A Walrasian Theory of Sovereign Debt Auctions with Asymmetric Information](https://www.nber.org/system/files/working_papers/w24890/w24890.pdf)
