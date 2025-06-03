@@ -25,6 +25,8 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
 <small> revise and resubmit, **Journal of Finance** </small>  
 <small> updated April 2025 </small>  
+<small> NB: Koijen and Yogo wrote a response to our paper. See [here](https://dneuhann.github.io/files/FFN_demand_slides.pdf) for our initial reactions. </small>  
+
 
 4. ###  [Do Public Asset Purchases Foster Liquidity?](https://dneuhann.github.io/files/ns_purchases.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351995)\]    
 <small> (with Michael Sockin) </small>  
