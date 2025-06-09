@@ -24,8 +24,8 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 3. ###  [Demand-system Asset Pricing: Theoretical Foundations](https://dneuhann.github.io/files/ffn_demand.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672473)\] \[[Slides](https://dneuhann.github.io/files/FFN_demand_slides.pdf)\]  
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
 <small> revise and resubmit, **Journal of Finance** (updated April 2025)  </small>  
-<small> Koijen and Yogo wrote a response to our paper. See [here](https://dneuhann.github.io/files/ffn_reply_ky25.pdf) for our initial reactions. </small>  
-<small> This [note](https://dneuhann.github.io/files/ffn_estimators.pdf) adresses their claim that we use an incorrect estimator. </small>  
+<small> -- Koijen and Yogo wrote a response to our paper. See [here](https://dneuhann.github.io/files/ffn_reply_ky25.pdf) for our initial reactions. </small>  
+<small> -- This [note](https://dneuhann.github.io/files/ffn_estimators.pdf) adresses their claim that we use an incorrect estimator. </small>  
 
 4. ###  [Do Public Asset Purchases Foster Liquidity?](https://dneuhann.github.io/files/ns_purchases.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351995)\]    
 <small> (with Michael Sockin) </small>  
