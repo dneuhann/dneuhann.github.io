@@ -21,6 +21,10 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
 <small> revise and resubmit, **Review of Financial Studies** </small>
 
+3. ###  [A Trilemma for Asset Demand Estimation](https://dneuhann.github.io/files/ffn_trilemma.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355589)\]  
+<small> (with William Fuchs and Satoshi Fukuda) </small>  
+
+
 3. ###  [Demand-system Asset Pricing: Theoretical Foundations](https://dneuhann.github.io/files/ffn_demand.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672473)\] \[[Slides](https://dneuhann.github.io/files/FFN_demand_slides.pdf)\]  
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
 <small> revise and resubmit, **Journal of Finance** (updated April 2025)  </small>  
