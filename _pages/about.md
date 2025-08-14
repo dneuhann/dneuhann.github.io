@@ -88,9 +88,6 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 16. ###  Kantian versus Consequentialist Portfolio Choice  
 <small>(with William Fuchs and Satoshi Fukuda)</small>
 
-16. ###  A Trilemma for Asset Demand Estimation  
-<small>(with William Fuchs and Satoshi Fukuda)</small>
-
 15. ###  Credit Market Interventions for the Long Run  
 <small>(with Michael Junho Lee)</small>
 
