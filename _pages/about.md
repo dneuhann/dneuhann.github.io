@@ -99,7 +99,7 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 <small> Elements of this paper were incorporated into "How to Sell Public Debt in Uncertain Times.''</small>  
 
 
-
+ [discussion](https://dneuhann.github.io/files/rtdisc.pdf)  
 
 
 [//]: This java script is the button to show abstract
