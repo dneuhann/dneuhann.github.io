@@ -13,17 +13,15 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 
 ### Working papers
 
+1. ###  [A Trilemma for Asset Demand Estimation](https://dneuhann.github.io/files/ffn_trilemma.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355589)\]  
+<small> (with William Fuchs and Satoshi Fukuda) </small>  
 
-1. ###  [How to Sell Public Debt in Uncertain Times](https://dneuhann.github.io/files/cno_howtosell.pdf) \[[NBER WP 33616](https://www.nber.org/papers/w33616)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5191328)\]
+2. ###  [How to Sell Public Debt in Uncertain Times](https://dneuhann.github.io/files/cno_howtosell.pdf) \[[NBER WP 33616](https://www.nber.org/papers/w33616)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5191328)\]
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
 
-2. ###  [Rules versus Disclosure: Prudential Regulation and Market Discipline ](https://dneuhann.github.io/files/ffn_rules.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799706)\] \[[Slides](https://dneuhann.github.io/files/FFN_rules_slides.pdf)\]  
+3. ###  [Rules versus Disclosure: Prudential Regulation and Market Discipline ](https://dneuhann.github.io/files/ffn_rules.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799706)\] \[[Slides](https://dneuhann.github.io/files/FFN_rules_slides.pdf)\]  
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
-<small> revise and resubmit, **Review of Financial Studies** </small>
-
-3. ###  [A Trilemma for Asset Demand Estimation](https://dneuhann.github.io/files/ffn_trilemma.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355589)\]  
-<small> (with William Fuchs and Satoshi Fukuda) </small>  
-
+<small> revise and resubmit, **Review of Financial Studies** (updated November 2025) </small>
 
 3. ###  [Demand-system Asset Pricing: Theoretical Foundations](https://dneuhann.github.io/files/ffn_demand.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672473)\] \[[Slides](https://dneuhann.github.io/files/FFN_demand_slides.pdf)\]  
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
@@ -50,9 +48,9 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 
 ### Publications and accepted papers
 
-1. ###  [Portfolio Regulation of Financial Institutions with Market Power](https://dneuhann.github.io/files/nss_portfolio.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971043)\]  
+1. ###  [Portfolio Regulation of Financial Institutions with Market Power](https://dneuhann.github.io/files/nss_portfolio.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971043)\] \[[Publisher's Link](https://doi.org/10.1093/rfs/hhaf095)\]  
 <small> (with Mayar Sefidgaran and Michael Sockin) </small>  
-<small> Forthcoming, Review of Financial Studies </small>
+<small> The Review of Financial Studies (2025), hhaf095 </small>
 
 2. ###  [Information Spillovers and Sovereign Debt: Theory meets the Eurozone Crisis](https://dneuhann.github.io/files/cno_eurozone_restud.pdf) \[[Publisher's Link](https://academic.oup.com/restud/article-abstract/92/1/197/7681930?redirectedFrom=fulltext)\]  
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
