@@ -46,9 +46,9 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 <small> revise and resubmit, **Review of Finance** </small>
 
 
-### Publications and accepted papers
+### Publications
 
-1. ###  [Portfolio Regulation of Financial Institutions with Market Power](https://dneuhann.github.io/files/nss_portfolio.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971043)\] \[[Publisher's Link](https://doi.org/10.1093/rfs/hhaf095)\]  
+1. ###  [Portfolio Regulation of Financial Institutions with Market Power](https://dneuhann.github.io/files/nss_portfolio.pdf) \[[Publisher's Link](https://doi.org/10.1093/rfs/hhaf095)\]  
 <small> (with Mayar Sefidgaran and Michael Sockin) </small>  
 <small> The Review of Financial Studies (2025), hhaf095 </small>
 
