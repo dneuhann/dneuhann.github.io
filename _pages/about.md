@@ -31,7 +31,7 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 
 4. ###  [Do Public Asset Purchases Foster Liquidity?](https://dneuhann.github.io/files/ns_purchases.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351995)\]    
 <small> (with Michael Sockin) </small>  
-<small> revise and resubmit, **Journal of Economic Theory** </small>
+<small> revise and resubmit, **Journal of Economic Theory** (updated December 2025) </small>
 
 5. ###  [Strategic Savings and Capital Flows](https://dneuhann.github.io/files/ns_intl.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971039)\]     
 <small>(with Michael Sockin)</small>
