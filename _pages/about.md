@@ -47,7 +47,7 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 ### Publications and Accepted Papers  
 1. ###  [Do Public Asset Purchases Foster Liquidity?](https://dneuhann.github.io/files/ns_purchases.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351995)\]    
 <small> (with Michael Sockin) </small>  
-<small> conditionally accepted, **Journal of Economic Theory** (updated December 2025) </small>
+<small> Journal of Economic Theory (conditionally accepted) </small>
 
 2. ###  [Portfolio Regulation of Financial Institutions with Market Power](https://dneuhann.github.io/files/nss_portfolio.pdf) \[[Publisher's Link](https://doi.org/10.1093/rfs/hhaf095)\]  
 <small> (with Mayar Sefidgaran and Michael Sockin) </small>  
