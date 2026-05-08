@@ -15,7 +15,7 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 
 1. ###  [A Trilemma for Asset Demand Estimation](https://dneuhann.github.io/files/ffn_trilemma.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355589)\]  
 <small> (with William Fuchs and Satoshi Fukuda) </small>  
-<small> Updated and generalized May 2026 </small>  
+<small> $\color{red}{updated \space and \space generalized \space 05/2026 here}$ </small>  
 <small> RAPS/RCFS 2026 Jackson Hole Finance Group Best Paper Award </small>  
 <small> 2026 Utah Winter Finance Conference Best Paper Award  </small>  
 
