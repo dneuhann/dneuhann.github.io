@@ -46,13 +46,13 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 
 
 ### Publications and Accepted Papers  
-1. ###  [Do Public Asset Purchases Foster Liquidity?](https://dneuhann.github.io/files/ns_purchases.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351995)\]    
+1. ###  [Government Trading and Efficiency in Imperfectly Competitive Financial Markets](https://dneuhann.github.io/files/ns_govtrading.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351995)\]    
 <small> (with Michael Sockin) </small>  
-<small> Journal of Economic Theory (conditionally accepted) </small>
+<small> Journal of Economic Theory, forthcoming </small>
 
 2. ###  [Portfolio Regulation of Financial Institutions with Market Power](https://dneuhann.github.io/files/nss_portfolio.pdf) \[[Publisher's Link](https://doi.org/10.1093/rfs/hhaf095)\]  
 <small> (with Mayar Sefidgaran and Michael Sockin) </small>  
-<small> The Review of Financial Studies (2025), hhaf095 </small>
+<small> The Review of Financial Studies, Volume 39, Issue 4, April 2026, Pages 1177–1226 </small>
 
 3. ###  [Information Spillovers and Sovereign Debt: Theory meets the Eurozone Crisis](https://dneuhann.github.io/files/cno_eurozone_restud.pdf) \[[Publisher's Link](https://academic.oup.com/restud/article-abstract/92/1/197/7681930?redirectedFrom=fulltext)\]  
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
