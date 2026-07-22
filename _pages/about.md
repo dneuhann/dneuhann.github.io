@@ -46,9 +46,9 @@ I am an assistant professor of finance at the University of Texas at Austin, McC
 
 
 ### Publications and Accepted Papers  
-1. ###  [Government Trading and Efficiency in Imperfectly Competitive Financial Markets](https://dneuhann.github.io/files/ns_govtrading.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351995)\]    
+1. ###  [Government Trading and Efficiency in Imperfectly Competitive Financial Markets](https://dneuhann.github.io/files/ns_govtrading.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351995)\] \[[Publisher's Link](https://www.sciencedirect.com/science/article/pii/S002205312600089X?dgcid=author)\]  
 <small> (with Michael Sockin) </small>  
-<small> Journal of Economic Theory, forthcoming </small>
+<small> Journal of Economic Theory, Volume 236 (September 2026), Article 106226 </small>
 
 2. ###  [Portfolio Regulation of Financial Institutions with Market Power](https://dneuhann.github.io/files/nss_portfolio.pdf) \[[Publisher's Link](https://doi.org/10.1093/rfs/hhaf095)\]  
 <small> (with Mayar Sefidgaran and Michael Sockin) </small>  
