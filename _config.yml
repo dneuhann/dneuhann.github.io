@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Daniel Neuhann"
 title_separator          : "-"
 name                     : "Daniel Neuhann"
-description              : "Daniel Neuhann, Assistant Professor of Finance at the University of Texas at Austin, specializing in financial economics, macroeconomics, asset pricing, and sovereign debt markets. Ph.D. in Economics from the University of Pennsylvania."
+description              : "Daniel Neuhann, Associate Professor of Finance at the University of Texas at Austin, specializing in financial economics, macroeconomics, asset pricing, and sovereign debt markets. Ph.D. in Economics from the University of Pennsylvania."
 url                      : https://danielneuhann.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "dneuhann/dneuhann.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Daniel Neuhann"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Finance, UT Austin"
+  bio              : "Associate Professor of Finance, UT Austin"
   location         : 
   employer         : "University of Texas at Austin"
   pubmed           :
