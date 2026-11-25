@@ -18,7 +18,7 @@ I am an associate professor of finance at the University of Texas at Austin, McC
 <small> RAPS/RCFS 2026 Jackson Hole Finance Group Best Paper Award </small>  
 <small> 2026 Utah Winter Finance Conference Best Paper Award  </small>  
 
-2. ###  [How to Sell Public Debt in Uncertain Times](https://dneuhann.github.io/files/cno_howtosell.pdf) \[[NBER WP 33616](https://www.nber.org/papers/w33616)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5191328)\]  
+2. ###  [How to Sell Public Debt in Uncertain Times](https://dneuhann.github.io/files/cno_howtosell.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5191328)\]  
 <small>(with Harold L. Cole and Guillermo Ordonez)</small>  
 <small> (updated November 2026) </small>  
 
