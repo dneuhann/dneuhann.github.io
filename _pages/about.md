@@ -14,26 +14,26 @@ I am an associate professor of finance at the University of Texas at Austin, McC
 ### Working papers
 
 1. ###  [A Trilemma for Asset Demand Estimation](https://dneuhann.github.io/files/ffn_trilemma.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355589)\]  
-<small> (with William Fuchs and Satoshi Fukuda) </small>  
+<small> with William Fuchs and Satoshi Fukuda </small>  
 <small> RAPS/RCFS 2026 Jackson Hole Finance Group Best Paper Award </small>  
 <small> 2026 Utah Winter Finance Conference Best Paper Award  </small>  
 
 2. ###  [How to Sell Public Debt in Uncertain Times](https://dneuhann.github.io/files/cno_howtosell.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5191328)\]  
-<small>(with Harold L. Cole and Guillermo Ordonez)</small>  
+<small> with Harold L. Cole and Guillermo Ordonez </small>  
 <small> (updated November 2026) </small>  
 
 3. ###  [Rules versus Disclosure: Prudential Regulation and Market Discipline ](https://dneuhann.github.io/files/ffn_rules.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799706)\]  
-<small> (with William Fuchs and Satoshi Fukuda) </small>  
+<small> with William Fuchs and Satoshi Fukuda </small>  
 <small> revise and resubmit, **Review of Financial Studies** (updated November 2025) </small>
 
 3. ###  [Demand-system Asset Pricing: Theoretical Foundations](https://dneuhann.github.io/files/ffn_demand.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672473)\]  
-<small> (with William Fuchs and Satoshi Fukuda) </small>  
+<small> with William Fuchs and Satoshi Fukuda </small>  
 <small> revise and resubmit, **Journal of Finance** (updated October 2026)  </small>  
 <small> -- Koijen and Yogo wrote a response to our paper. See [here](https://dneuhann.github.io/files/ffn_reply_ky25.pdf) for our initial reactions. </small>  
 <small> -- This [note](https://dneuhann.github.io/files/ffn_estimators.pdf) adresses their claim that we use an incorrect estimator. </small>  
 
 5. ###  [Strategic Savings and Capital Flows](https://dneuhann.github.io/files/ns_intl.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971039)\]     
-<small>(with Michael Sockin)</small>
+<small> with Michael Sockin </small>
 
 6. ###  [Inefficient Asset Price Booms](https://dneuhann.github.io/files/n_booms.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3095730)\]    
 <small> revise and resubmit, **Review of Financial Studies** </small>  
@@ -41,41 +41,41 @@ I am an associate professor of finance at the University of Texas at Austin, McC
 <small> Runner-up, 2016 European Systemic Risk Board Ieke van den Burg Prize  </small>
 
 7. ###  [Less Bank Regulation, More Non-Bank Lending](https://dneuhann.github.io/files/cnls_nonbank.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4447765)\]  
-<small> (with Mary Chen, Seung Lee and Farzad Saidi) </small>  
+<small> with Mary Chen, Seung Lee and Farzad Saidi </small>  
 <small> revise and resubmit, **Review of Finance** </small>
 
 
 ### Publications and Accepted Papers  
 1. ###  [Government Trading and Efficiency in Imperfectly Competitive Financial Markets](https://dneuhann.github.io/files/ns_govtrading.pdf) \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351995)\] \[[Publisher's Link](https://www.sciencedirect.com/science/article/pii/S002205312600089X?dgcid=author)\]  
-<small> (with Michael Sockin) </small>  
+<small> with Michael Sockin </small>  
 <small> Journal of Economic Theory, Volume 236 (September 2026), Article 106226 </small>
 
 2. ###  [Portfolio Regulation of Financial Institutions with Market Power](https://dneuhann.github.io/files/nss_portfolio.pdf) \[[Publisher's Link](https://doi.org/10.1093/rfs/hhaf095)\]  
-<small> (with Mayar Sefidgaran and Michael Sockin) </small>  
+<small> with Mayar Sefidgaran and Michael Sockin </small>  
 <small> The Review of Financial Studies, Volume 39, Issue 4, April 2026, Pages 1177–1226 </small>
 
 3. ###  [Information Spillovers and Sovereign Debt: Theory meets the Eurozone Crisis](https://dneuhann.github.io/files/cno_eurozone_restud.pdf) \[[Publisher's Link](https://academic.oup.com/restud/article-abstract/92/1/197/7681930?redirectedFrom=fulltext)\]  
-<small>(with Harold L. Cole and Guillermo Ordonez)</small>  
+<small> with Harold L. Cole and Guillermo Ordonez </small>  
 <small> The Review of Economic Studies Vol. 92 No. 1 (2025), 197-237</small>
 
 4. ###  [Financial Market Concentration and Misallocation](https://dneuhann.github.io/files/ns_concentration_JFE.pdf) \[[Publisher's Link](https://www.sciencedirect.com/science/article/abs/pii/S0304405X24000989)\]  
-<small>(with Michael Sockin)</small>  
+<small> with Michael Sockin </small>  
 <small> Journal of Financial Economics Vol. 159 (2024), 103875 </small>
 
 5. ###  [Collateral Quality and Intervention Traps](https://dneuhann.github.io/files/ln_cqual_JFE.pdf) \[[Publisher's Link](https://www.sciencedirect.com/science/article/abs/pii/S0304405X22002252)\]     
- <small> (with Michael Junho Lee)</small>  
+ <small> with Michael Junho Lee </small>  
 <small> Journal of Financial Economics  Vol. 147 No. 1 (January 2023), 159-171</small>
 
 6. ###  [Asymmetric Information and Sovereign Debt: Theory meets Mexican Data](https://dneuhann.github.io/files/cno_mex_JPE.pdf) \[[Publisher's Link](https://www.journals.uchicago.edu/doi/abs/10.1086/720139)\]   
-<small>(with Harold L. Cole and Guillermo Ordonez)</small>  
+<small> with Harold L. Cole and Guillermo Ordonez </small>  
 <small> Journal of Political Economy  Vol. 130 No. 8 (2022), 2055-2109</small>
 
 7. ###  [Sovereign Debt Auctions in Turbulent Times](https://dneuhann.github.io/files/cno_turbulent_AERPP.pdf) \[[Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20221001)\]  
-<small>(with Harold L. Cole and Guillermo Ordonez)</small>  
+<small> with Harold L. Cole and Guillermo Ordonez </small>  
 <small> AEA Papers and Proceedings 2022, 112: 526-530</small>
 
 8. ###  [Do Universal Banks Finance Riskier but More Productive Firms?](https://dneuhann.github.io/files/NS_ub_JFE.pdf) \[[Publisher's Link](https://www.sciencedirect.com/science/article/abs/pii/S0304405X18300254)\]  
-<small> (with Farzad Saidi) </small>  
+<small> with Farzad Saidi </small>  
 <small> Journal of Financial Economics Vol. 128 (2018), Pages 66-85</small>
 
 
@@ -83,18 +83,18 @@ I am an associate professor of finance at the University of Texas at Austin, McC
 ### Work in Progress
 
 15. ###  Time-varying Market Power in Sovereign Bond Auctions  
-<small>(with Harold L. Cole and Guillermo Ordonez)</small>
+<small> with Harold L. Cole and Guillermo Ordonez </small>
 
 16. ###  Kantian versus Consequentialist Portfolio Choice  
-<small>(with William Fuchs and Satoshi Fukuda)</small>
+<small> with William Fuchs and Satoshi Fukuda </small>
 
 15. ###  Credit Market Interventions for the Long Run  
-<small>(with Michael Junho Lee)</small>
+<small> with Michael Junho Lee </small>
 
 ### Superseded Projects
 
 17. ###  [A Walrasian Theory of Sovereign Debt Auctions with Asymmetric Information](https://www.nber.org/system/files/working_papers/w24890/w24890.pdf)
-<small>(with Harold L. Cole and Guillermo Ordonez)</small>  
+<small> with Harold L. Cole and Guillermo Ordonez </small>  
 <small> NBER Working Paper 24890 </small>  
 <small> Elements of this paper were incorporated into "How to Sell Public Debt in Uncertain Times.''</small>  
 
